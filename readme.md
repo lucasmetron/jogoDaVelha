@@ -1,7 +1,6 @@
 # Jogo da velha
 
-### - Neste desafio foi proposta realizar um jogo da velha. Porém o legal desde projeto foi que utilizei o conceito de MVC (Model-View-Controller), no projeto há um arquivo game.js onde possui as regras do jogo (regras de negócio) e neste arquivo não há nada vinculado com HTML ou CSS. Também existe outro arquivo chamado interface.js, e é este arquivo que é o controlador, que faz o meio de campo entre o regra de negócio (game.js) e a view que é a interface  (HTML CSS). 
-
+### - No desafio de hoje, para treinar a lógica de programação, montei um jogo da velha utilizando o conceito de MVC (Model-View-Controller). Incluí no projeto um arquivo game.js, que possui as regras do jogo (regras de negócio) e não tem vínculo algum com HTML ou CSS. Também coloquei outro arquivo chamado interface.js: este arquivo é o controlador, que faz o meio de campo entre a regra de negócio (game.js) e a view que é a interface (HTML e CSS).
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
 #### *HTML.
